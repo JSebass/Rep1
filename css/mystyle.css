@@ -1,0 +1,24 @@
+.nav-wrapper{
+    background-color: #000000 !important;
+}
+.tabs{
+    background-color: rgb(255,0,0);
+    opacity:0.6;
+
+}
+body{
+    background-image: url('../img/fondo.jpg'); 
+    background-size: cover;
+    background-color: black;
+    width: 100%; height: 100vh;
+}
+p{
+    font: oblique bold 120% cursive;
+    color: white;
+    font-size: 150%;
+    text-align: justify;    
+}
+.carousel {
+    height: 200px;;
+}
+    
